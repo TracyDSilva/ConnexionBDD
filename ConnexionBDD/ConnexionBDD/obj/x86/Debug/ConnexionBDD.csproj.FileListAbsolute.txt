@@ -1,0 +1,9 @@
+E:\DaSilva_Tracy\ConnexionBDD\ConnexionBDD\bin\Debug\ConnexionBDD.exe
+E:\DaSilva_Tracy\ConnexionBDD\ConnexionBDD\bin\Debug\ConnexionBDD.pdb
+E:\DaSilva_Tracy\ConnexionBDD\ConnexionBDD\obj\x86\Debug\ConnexionBDD.exe
+E:\DaSilva_Tracy\ConnexionBDD\ConnexionBDD\obj\x86\Debug\ConnexionBDD.pdb
+E:\DaSilva_Tracy\ConnexionBDD\ConnexionBDD\obj\x86\Debug\ConnexionBDD.csprojResolveAssemblyReference.cache
+G:\Slam2\ConnexionBDD\ConnexionBDD\obj\x86\Debug\ConnexionBDD.exe
+G:\Slam2\ConnexionBDD\ConnexionBDD\obj\x86\Debug\ConnexionBDD.pdb
+H:\Slam2\ConnexionBDD\ConnexionBDD\obj\x86\Debug\ConnexionBDD.exe
+H:\Slam2\ConnexionBDD\ConnexionBDD\obj\x86\Debug\ConnexionBDD.pdb
